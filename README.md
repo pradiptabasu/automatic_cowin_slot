@@ -1,6 +1,2 @@
-# automatic_cowin_slot
+Please refer https://www.tinyurl.com/57n7sefh  for readme.
 
-# Automatic CoWin Vaccine Slot Booking 
-
-Please refer for README.
-tinyurl.com/57n7sefh
